@@ -13,3 +13,4 @@ This package should be thought of as a tool rather than a framework. It can coex
 Inherent in the design is an understanding that the simplest cases can be done simply, but that there are additional ways to open up the functionality to accommodate more complex issues.
 
 And, if the issue encountered does not fit this package's approach, the original resource classes can be used with no loss of functionality.
+a
